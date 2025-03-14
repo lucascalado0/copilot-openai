@@ -1,2 +1,7 @@
 input 1: Uma jovem mulher flutuando em uma nuvem branca durante o pôr do sol.
 
+input 2: Um cachorro golden retriever jogando futebol
+
+input3: Uma gato vendendo picole na praia
+
+input 4: Uma lagartixa surfando
